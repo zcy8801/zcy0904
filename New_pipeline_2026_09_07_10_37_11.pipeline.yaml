@@ -31,7 +31,27 @@ spec:
       parameters: []
       resources: []
       position:
-        x: 0
-        'y': 40
+        x: -310
+        'y': 0
+    - name: New_Job_2
+      type: notebook
+      source: WORKSPACE
+      path: /Workspace/Private/IAM_Users/zhengchenyu.unka-58429491/abc.ipynb
+      kernelType: python_kubernetes
+      engineQueue: 公共队列-Default
+      computingResourceGroupName: 公共计算
+      computingResourceGroupId: 1012
+      sparkConf: []
+      executeParam:
+        image:
+          imageUrl: >-
+            dataleap-cn-beijing.cr.volces.com/studio/notebook_runtime:python-3-12
+        cpuCores: 1
+        memoryMb: 4096
+      parameters: []
+      resources: []
+      position:
+        x: 30
+        'y': 70
   schedulingResourceGroupName: 公共调度资源组
   schedulingResourceGroupId: 1009
