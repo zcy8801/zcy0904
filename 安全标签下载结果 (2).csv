@@ -1,0 +1,13 @@
+﻿数据源,数据库,数据表,字段名,识别标签,当前标签,识别密级,当前密级
+bytehousecdw,default-aaaap,table01,id,root/二期测试/字段名,,2,3
+bytehousecdw,default-aaaap,table01,name,root/二期测试/字段名,,2,3
+bytehousecdw,default-aaaap,table02,id,root/二期测试/字段名,,2,2
+bytehousecdw,default-aaaap,table02,name,root/二期测试/字段名,,2,2
+bytehousecdw,default-aaaav,table01,id,root/二期测试/字段名,,2,3
+bytehousecdw,default-aaaav,table01,name,root/二期测试/字段名,,2,3
+bytehousecdw,default-aaaav,table02,id,root/二期测试/字段名,,2,2
+bytehousecdw,default-aaaav,table02,name,root/二期测试/字段名,,2,2
+bytehousecdw,dtstwo-dtstwo,mysql2es,age,root/二期测试/字段名,,2,2
+bytehousecdw,dtstwo-dtstwo,mysql2es,name,root/二期测试/字段名,,2,2
+bytehousecdw,dtstwo-dtstwo,test_multienv,age,root/二期测试/字段名,,2,2
+bytehousecdw,dtstwo-dtstwo,test_multienv,name,root/二期测试/字段名,,2,2
